@@ -17,7 +17,7 @@ pip2 install --upgrade pip
 
 gem install lolcat
 
-git clone https://github.com/AlatToll/cracker.git
+git clone @github.com:Dev633/Hello-.git
 
 cd cracker
 
